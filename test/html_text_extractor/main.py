@@ -39,9 +39,10 @@ def main():
     xpath = get_html_xpath()
     read_file = open(file, 'r')
     read_file = read_file.readlines()
-    for row in read_file:
-        if xpath not in read_file:
-            print("Xpath not found!\n Are you sure about the Xpath format?")
+
+    # for row in read_file:
+    #     if xpath not in row:
+    #         print("Xpath not found!\n Are you sure about the Xpath format?")
 
 
 if __name__ == "__main__":

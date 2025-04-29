@@ -42,7 +42,7 @@ def main():
 
     # for row in read_file:
     #     if xpath not in row:
-    #         print("Xpath not found!\n Are you sure about the Xpath format?")
+    #         print("Xpath not found!\n Are you sure about the Xpath format?").
 
 
 if __name__ == "__main__":

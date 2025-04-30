@@ -22,6 +22,12 @@ def get_html_xpath():
     xpath = input("Please enter the inner html xpath: ")
     return xpath
 
+# def convert():
+#     pass
+
+# def xpath_distance():
+#     pass
+
 # def check_file_existence(path):
 #     pass
 

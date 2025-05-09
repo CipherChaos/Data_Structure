@@ -1,10 +1,11 @@
 # Data Structures from *Grokking Algorithms*
 
-This repository contains implementations of various data structures I’m learning from the book *Grokking Algorithms*.  
+This repository contains implementations of various data structures I’ve learned from the book *Grokking Algorithms*.  
 Each module is written with clarity and educational value in mind.
 
-
-![Grokking Algorithms](assets/Grokking-algorithms.png)
+<p align="center">
+  <img src="data_structure/assets/Grokking-algorithms.png" alt="Grokking Algorithms" />
+</p>
 
 ---
 
